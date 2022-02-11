@@ -37,5 +37,4 @@ export class CoursesEffects {
     }
 
 
-// test
 }
